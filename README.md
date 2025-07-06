@@ -37,16 +37,13 @@ No more juggling your phone — just set it up, relax, and let the app handle it
 ## 🚀 Getting Started
 
 1️⃣ **Clone the repo**
-```bash
 git clone https://github.com/yourusername/WhatsApp-Sender-Pro.git
 cd WhatsApp-Sender-Pro
 
 2️⃣ **Install dependencies**
-```bash
 pip install streamlit pywhatkit
 
 3️⃣ **Run the app**
-```bash
 streamlit run app.py
 
 4️⃣ **Keep your WhatsApp Web logged in and browser open while sending.**
